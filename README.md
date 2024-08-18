@@ -95,3 +95,5 @@ movie-search-app/
 This project is open-source and available under the [MIT License](LICENSE).
 
 <!-- [2024-08-18] feat: initialize Movie Search app layout with search hero banner -->
+
+<!-- [2024-08-18] feat: integrate movie search API query handling and result cards -->
