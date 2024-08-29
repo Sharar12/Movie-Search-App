@@ -99,3 +99,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 <!-- [2024-08-18] feat: integrate movie search API query handling and result cards -->
 
 <!-- [2024-08-29] feat: add watchlist storage and movie rating badge indicators -->
+
+<!-- [2024-08-29] style: polish movie detail modal with responsive backdrop preview -->
